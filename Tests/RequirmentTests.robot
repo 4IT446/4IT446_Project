@@ -9,7 +9,8 @@ Suite Teardown  Close browser
 
 *** Test Cases ***
 
-1.1 Pozadavek
+Requirments 1.2, 1.4, 1.5
+
     Check availability of tabs
     Check logo functionality
     Check availability of captcha
