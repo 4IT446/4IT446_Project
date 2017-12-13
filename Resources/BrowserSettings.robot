@@ -1,5 +1,11 @@
 *** Variables ***
 ${browser} =  chrome
 ${test_url} =  http://testovanisoftwaru.cz/
+${manual_testing_url} =  ${test_url}manualni-testovani/
+${documentation_in_testing_url} =  ${test_url}dokumentace-v-testovani/
+${automated_testing_url} =  ${test_url}automatizovane-testovani/
+${tools_url} =  ${test_url}nastroje/
+${contact_url} =  ${test_url}kontakt/
+${static_ad_url} =  https://adexpert.cz/domena/testovanisoftwaru.cz
 ${escape_key} =  \\27
 ${enter_key} =  \\13
